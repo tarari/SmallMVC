@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>About</title>
+	<title>Home</title>
+	<link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="./public/style.css">
 
 </head>
 <body>
 <header>
-	<h1>This is the Error page</h1>
+	<h1>This is the Contact page</h1>
 	<h3>&copy;<?= $Nom;?></h3>
 	<h3><?= $Cognoms;?></h3>
 <nav>

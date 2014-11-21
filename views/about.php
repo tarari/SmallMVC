@@ -2,6 +2,8 @@
 <html>
 <head>
 	<title>About</title>
+	<link rel="stylesheet" type="text/css" href="./public/style.css">
+
 </head>
 <body>
 <header>
